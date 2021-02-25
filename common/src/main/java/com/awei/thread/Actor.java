@@ -1,4 +1,4 @@
-package com.awei.thread.base;
+package com.awei.thread;
 
 /**
  * @description:
